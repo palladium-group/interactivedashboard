@@ -1,0 +1,23 @@
+{
+  "Home": "Home",
+  "DHIS2 dashboards": "DHIS2 dashboards",
+  "Custom dashboards": "Custom dashboards",
+  "Data request": "Data request",
+  "Resources": "Resources",
+  "Feedback and suggestions": "Feedback and suggestions",
+  "Language": "Language",
+  "English":"English",
+  "Dari":"Dari",
+  "Pashto":"Pashto",
+  "Data Request Form": "Data Request Form",
+  "Names":"Names",
+  "Given Names":"Given Names",
+  "Email":"Email",
+  "Country":"Country",
+  "State/Province/Region":"State/Province/Region",
+  "Data Domain":"Data Domain",
+  "Desired Visual Graph":"Desired Visual Graph",
+  "Data Description":"Data Description",
+  "Submit":"Submit",
+  "Dashboard filter": "Dashboard filter"
+}

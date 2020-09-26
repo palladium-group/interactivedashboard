@@ -1,0 +1,52 @@
+{
+"events":{
+  "feedbackevent": {
+    "names": {
+      "dhis2Uid": "AxArDtaNGBK"
+    },
+    "email": {
+      "dhis2Uid": "iLwKqi4y4UQ"
+    },
+    "country": {
+      "dhis2Uid": "MSDfdj5VYPT"
+    },
+    "state": {
+      "dhis2Uid": "wwZNvlFSovZ"
+    },
+    "feedback": {
+      "dhis2Uid": "e3jE0mqsdB7"
+    },
+    "programName": "Public Portal Feedback Form",
+    "programId": "YecBtEi1aBX",
+    "programPostOrgunit": "Afghanistan",
+    "programPostOrgunitId": "Nasfuph3Pqw"
+  },
+    "datarequestevent": {
+      "names": {
+        "dhis2Uid": "TM0XlJh6p40"
+      },
+      "email": {
+        "dhis2Uid": "kcBtcjac76f"
+      },
+      "country": {
+        "dhis2Uid": "sVs5CuRX8qP"
+      },
+      "state": {
+        "dhis2Uid": "qxkrbxrXcDW"
+      },
+      "datadomain": {
+        "dhis2Uid": "ayWeadwBEXE"
+      },
+      "visualtype": {
+        "dhis2Uid": "c8zhTEBGIOu"
+      },
+      "description": {
+        "dhis2Uid": "FsQjF4PGhiw"
+      },
+      "programName": "Public Portal Data Request Form",
+      "programId": "S2F4880vZTU",
+      "programPostOrgunit": "Afghanistan",
+      "programPostOrgunitId": "Nasfuph3Pqw"
+    }
+ }
+}

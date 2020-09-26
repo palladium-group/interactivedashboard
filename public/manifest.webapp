@@ -1,0 +1,34 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "https://moph-dw.gov.af"
+    }
+  },
+  "appType": "APP",
+  "name": "Dashboards app",
+  "version": "0.1.0",
+  "description": "DHIS2 core dashboard",
+  "icons": {
+    "48": "icon.png"
+  },
+  "developer": {
+    "name": "DHIS2"
+  },
+  "dhis2": {
+    "apiVersion": "29"
+  },
+  "manifest_generated_at": "Tue Sep 22 2020 19:45:41 GMT+0300 (East Africa Time)",
+  "users":{
+    "en":{
+        "auth":"Basic ZGlhcy5wYWxsYWRpdW06YWFBQTExISEkJA=="
+    },
+    "pa":{
+        "auth":"Basic ZGlhcy5wYWxsYWRpdW06YWFBQTExISEkJA=="
+    },
+    "dr":{
+        "auth":"Basic ZGlhcy5wYWxsYWRpdW06YWFBQTExISEkJA=="
+    }
+  }
+}
